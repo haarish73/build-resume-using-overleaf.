@@ -1,1 +1,1 @@
-open online overleaf/latex comiler to run this program.
+open online overleaf/latex compiler to run this program.
